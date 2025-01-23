@@ -1,0 +1,43 @@
+html {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #f4f1de;
+}
+
+header {
+  justify-items: center;
+  margin-bottom: 1%;
+  border: 1px solid black;
+  border-radius: 7rem;
+  background-color: #f2cc8f;
+}
+
+.main-content {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1%;
+}
+
+.bolded{
+    font-weight: 700;
+}
+
+section {
+  margin: 1%;
+  padding: 1%;
+  justify-items: center;
+  border: 1px solid black;
+  border-radius: 15%;
+  background-color: #e07a5f;
+}
+
+footer {
+  justify-items: center;
+  border: 1px solid black;
+  border-radius: 7rem;
+  background-color: #f2cc8f;
+}
